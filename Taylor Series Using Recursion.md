@@ -35,4 +35,4 @@ print(series(x, n))
 
 ## RESULT
 
-
+Thus, the program has been successfully executed.
